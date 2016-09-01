@@ -73,6 +73,7 @@ public class EditNoteActivity extends AppCompatActivity {
                 finish();
             }
         });
+        //Some Changes
         bSave.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
